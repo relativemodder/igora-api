@@ -1,5 +1,8 @@
 # Igora API
 
+made for the colledge project, ignore it
+
+
 Prereqs:
 - uv
 - be smart enough
